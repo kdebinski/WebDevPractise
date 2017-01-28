@@ -124,9 +124,6 @@ input[type="button"]:disabled {
   	justify-content: space-between;
   	align-items: baseline;
 }
-.username-icon:before{
-	background: linear-gradient(#a3d840,#7fc320);
-}
 .username-icon{
 	background: url("./img/icon-user.png") no-repeat scroll 2% 50%;
 	background-size: 7% 70%;
