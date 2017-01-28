@@ -130,27 +130,27 @@ input[type="button"]:disabled {
 .username-icon{
 	background: url("./img/icon-user.png") no-repeat scroll 2% 50%;
 	background-size: 7% 70%;
-	padding-left: 40px;
+	padding-left: 10%;
 }
 .lock-icon{
 	background: url("./img/icon-lock.png") no-repeat scroll 1% 50%;
 	background-size: 7% 70%;
-	padding-left: 40px;
+	padding-left: 10%;
 }
 .envelope-icon{
 	background: url("./img/icon-envelope.png") no-repeat scroll 1% 50%;
 	background-size: 7% 70%;
-	padding-left: 40px;
+	padding-left: 10%;
 }
 .location-icon{
 	background: url("./img/icon-location.png") no-repeat scroll 1% 50%;
 	background-size: 7% 70%;
-	padding-left: 40px;
+	padding-left: 10%;
 }
 .phone-icon{
 	background: url("./img/icon-phone.png") no-repeat scroll 1% 50%;
 	background-size: 7% 70%;
-	padding-left: 40px;
+	padding-left: 10%;
 }
 
 .check_box {
