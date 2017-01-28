@@ -190,6 +190,9 @@ input[type="button"]:disabled {
   	}
   	#logo{
 		width: 90%;
-	}		
+	}
+	.form-header{
+		font-size: 5vw;
+	}			
 }
 }
